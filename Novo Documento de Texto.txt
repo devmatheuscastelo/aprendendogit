@@ -1,0 +1,3 @@
+Para criar uma chave SSH, pesquisa no google Github SSH
+Copiar o comando que ta la no GIT
+Depois vai na pasta que sua SSH KEY PUB foi e coloca no Github (settings> ssh > new ssh key)
